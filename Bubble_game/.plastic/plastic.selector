@@ -1,4 +1,0 @@
-repository "Bubble_game/Bubble_game@7972439303072@cloud"
-  path "/"
-    br "/main"
-    co "/main"
